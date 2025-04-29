@@ -1,1 +1,3 @@
-just memory manager
+**just memory manager**
+
+**by eadrick0**
